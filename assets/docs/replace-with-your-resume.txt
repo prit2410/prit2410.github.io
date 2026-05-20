@@ -1,0 +1,12 @@
+Put your resume PDF in this folder.
+
+Recommended file name:
+resume.pdf
+
+If you use a different file name:
+1. Open index.html
+2. Find assets/docs/resume.pdf
+3. Replace it with your own file name
+
+Example:
+assets/docs/riya-sharma-resume.pdf
