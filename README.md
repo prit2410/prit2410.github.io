@@ -37,5 +37,5 @@ This project is purely frontend (static files) and is optimized for easy deploym
 
 ## 📬 Links
 * **Email:** pritdesa@gmail.com
-* **LinkedIn:** linkedin.com/in/pritdesai
-* **GitHub:** github.com/pritdesai
+* **LinkedIn:** linkedin.com/in/prit-desai-36545412b
+* **GitHub:** github.com/prit2410
